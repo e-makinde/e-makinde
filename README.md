@@ -6,7 +6,7 @@ My background is in Chemistry but I've been coding for a couple years now and of
 
 <!-- Woman in stem GIF-->
 <p align="center">
-![](https://github.com/e-makinde/e-makinde/blob/main/resources/woman%20in%20stem%20gif.gif)
+    <src="https://github.com/e-makinde/e-makinde/blob/main/resources/woman%20in%20stem%20gif.gif">
 </p>
 
 So far, I've learned Python, SQL, HTML, AWS basics and Docker basics. I've worked on SQL tuning and analysis of AWR/NMON reports.
