@@ -17,7 +17,7 @@ The journey into tech has not been easy but it sure has been interesting. If you
 
 <!-- Insecure GIF -->
 <p align="center">
-    <img src=https://github.com/e-makinde/e-makinde/blob/main/resources/insecure%20gif.gif)>
+    <img src=https://github.com/e-makinde/e-makinde/blob/main/resources/insecure%20gif.gif>
 </p>
 
 <!--
