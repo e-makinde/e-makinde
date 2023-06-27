@@ -6,7 +6,7 @@ My background is in Chemistry but I've been coding for a couple years now and of
 
 <!-- Woman in stem GIF-->
 
-![]
+![]https://github.com/e-makinde/e-makinde/blob/main/resources/woman%20in%20stem%20gif.gif
 
 So far, I've learned Python, SQL, HTML, AWS basics and Docker basics. I've worked on SQL tuning and analysis of AWR/NMON reports.
 
@@ -16,7 +16,7 @@ The journey into tech has not been easy but it sure has been interesting. If you
 
 <!-- Insecure GIF -->
 
-![]
+![]https://github.com/e-makinde/e-makinde/blob/main/resources/insecure%20gif.gif
 
 <!--
 **e-makinde/e-makinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
